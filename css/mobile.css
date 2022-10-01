@@ -29,7 +29,9 @@
 }
 
 .client {
-    width: 50%;
+    width: 150%;
+    margin: 10px 5px 10px 6px;
+    
 }
 
 /* Features */

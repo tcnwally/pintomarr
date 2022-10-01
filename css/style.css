@@ -36,6 +36,7 @@ a {
     text-transform: uppercase;
     font-weight: bold;
     text-align: center;
+    text-shadow:3px 3px 20px#000;
     padding-bottom: 50px;
     letter-spacing: 2px;
 }
@@ -78,7 +79,10 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #eee;
+    color: rgb(0, 0, 0);
+    line-height: 2;
+    text-shadow: 1px 1px 20px #000;
+    font-weight: bold;
     background: url('/img/bak.jpg') no-repeat center center/cover;
 
     /* Overlay */
